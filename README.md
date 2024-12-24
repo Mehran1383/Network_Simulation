@@ -6,7 +6,7 @@
 
 
 ## Designed Network
-![a](network-screenshot.png)
+![network_screenshot](https://github.com/user-attachments/assets/bf7b73c1-8adc-44b7-beb6-6f87d1241bdf)
 
 
 ## Problem Statement
