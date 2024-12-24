@@ -6,7 +6,7 @@
 
 
 ## Designed Network
-![a](../main/network-screenshot.png)
+![a](network-screenshot.png)
 
 
 ## Problem Statement
