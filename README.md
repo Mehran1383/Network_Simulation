@@ -1,13 +1,12 @@
 # 🖧 A Network Topology designed using Cisco Packet Tracer
 
-<a href="https://github.com/Mehran1383"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Mehran1383&style=flat-square" width="125"/></a>
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
 
 
 ## Designed Network
-![a](../master/network-screenshot.PNG)
+![a](../network-screenshot.PNG)
 
 
 ## Problem Statement
