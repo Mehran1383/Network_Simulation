@@ -11,7 +11,7 @@ The topolgy of this project has been devided into 4 sections and a backbone. Dif
 You can simply check all of the configurations, using ``` show ru ``` command in each device. Also it may be interesting for you, checking ``` show ip route ``` to see what is going on in routers.
 
 ## How to Run
-Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and then simply open the [netlab_project.pkt](netlab_project.pkt). The whole network is in working condition. You can check it by sending a packet from one system to another or through using the PING command in the Cisco Packet Tracer.You should wait some seconds until 
+Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and then simply open the [netlab_project.pkt](netlab_project.pkt). The whole network is in working condition. You can check it by sending a packet from one system to another or through using the PING command in the Cisco Packet Tracer.
 
 
 
