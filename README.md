@@ -46,7 +46,8 @@ You can simply check all of the configurations, using ``` show ru ``` command in
 ## How to Run
 Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and then simply open the [netlab_project.pkt](netlab_project.pkt). The whole network is in working condition. You can check it by sending a packet from one system to another or through using the PING command in the Cisco Packet Tracer.
 
-
+## Prepared for
+Network lab at Isfahan University of Technology
 
 
 
